@@ -4,7 +4,7 @@ A simple Spring Boot REST API.
 
 ## Project Structure
 ```
-student-api/
+spring_api/
 ├── src/
 │   └── main/
 │       ├── java/
